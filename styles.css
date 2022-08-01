@@ -1,0 +1,14 @@
+body{
+  background-color:#7A86B6;
+}
+hr{width: 5%;
+  border-style:none;
+  border-top-style: dotted;
+  border-color: green;
+  border-width: 7px;
+}
+h1{color: white}
+h2{color:white}
+.Team{width: 700px;}
+.Toni{width: 630px;}
+img{border: solid 10px;}
