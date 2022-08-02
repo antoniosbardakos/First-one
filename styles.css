@@ -10,5 +10,8 @@ hr{width: 5%;
 h1{color: white}
 h2{color:white}
 .Team{width: 700px;}
-.Toni{width: 630px;}
+.Toni{
+  position: relative;
+  left: 50px;
+  width: 630px;}
 img{border: solid 10px;}
