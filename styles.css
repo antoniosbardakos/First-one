@@ -13,5 +13,9 @@ h2{color:white}
 .Toni{
   position: relative;
   left: 50px;
-  width: 630px;}
+  width: 580px;}
 img{border: solid 10px;}
+.kontakt{
+  position: fixed;
+color: yellow;
+right: 710px;}
